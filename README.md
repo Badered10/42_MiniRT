@@ -23,7 +23,7 @@ This project was created as part of the 42 Network curriculum to explore compute
 - Cylinder
 
 ### Lighting Model
-- None (basic shading without complex lighting models)
+- Phong lighting model for realistic shading
 
 ### Camera Controls
 - Translation: Move forward, backward, left, and right
@@ -46,7 +46,7 @@ This project was created as part of the 42 Network curriculum to explore compute
 - Cone
 
 ### Lighting Model
-- Phong lighting model for realistic shading
+- Add specular reflection
 
 ### Camera Controls
 - All mandatory camera controls
