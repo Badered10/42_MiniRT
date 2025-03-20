@@ -104,6 +104,6 @@ Special thanks to my teammate **Abderrahim Chikhi** for their contributions and 
 ---
 
 ## Personal Touch
-Creating this project was a rewarding experience that challenged my understanding of mathematics, graphics, and code optimization. Exploring ray tracing concepts while improving performance and visuals has been an enriching journey.
+Creating this project was a rewarding experience that challenged my understanding of mathematics, graphics, and code optimization. Exploring ray tracing concepts while improving performance and visuals has been an enriching journey .
 
 
