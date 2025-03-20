@@ -73,11 +73,9 @@ This project was created as part of the 42 Network curriculum to explore compute
 
 ## Build Instructions
 1. Clone the repository
-(Mandatory)
 2. Run `make` to compile the project Mandatory
 3. Use `./miniRT <scene_file.rt>` to launch the program
-(Bonus)
-1. Run `make bonus` to compile the project Mandatory
+1. Run `make bonus` to compile the project Bonus
 2. Use `./miniRT_bonus <scene_file.rt>` to launch the program
 
 ---
