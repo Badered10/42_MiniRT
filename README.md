@@ -31,7 +31,7 @@ This project was created as part of the 42 Network curriculum to explore compute
 
 ### Shapes and Lights Controls
 - **Shapes:** Can be translated, rotated, and scaled
-- **Lights:** Can be translated and rotated
+- **Lights:** Can be translated
 
 ### Parsing
 - `.rt` file format for scene descriptions
